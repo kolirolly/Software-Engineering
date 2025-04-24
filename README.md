@@ -5,8 +5,8 @@ This repository contains assignments for my Software engineering course.
 
 **1. Cricket match software 1**
 
-Link: https://github.com/kolirolly/Software-Engineering/blob/69bec325b7f5cb8c54d5d37980dd1e9727562074/cricket-team-management.py
----
+**Link: https://github.com/kolirolly/Software-Engineering/blob/69bec325b7f5cb8c54d5d37980dd1e9727562074/cricket-team-management.py
+**---
 
 ## LAB Assignments
 **1. Assignment 1**
@@ -20,6 +20,6 @@ Link: https://github.com/kolirolly/Software-Engineering/blob/9a30d918f9a88c86f9f
 
 Description: pyunit testing for prime numbers banking code
 
-Link: https://github.com/kolirolly/DSFundamentals_RohitKoli/tree/main/assignment_2
+Link: https://github.com/kolirolly/Software-Engineering/blob/11c4f8d6f8d1a2146df088170ef8d75eda18559d/software_unittesting.ipynb
 
 ---
