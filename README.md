@@ -13,7 +13,7 @@ Link: https://github.com/kolirolly/Software-Engineering/blob/69bec325b7f5cb8c54d
 
 Description: refactoring assignment of prime numbers, java to python.
 
-Link: https://github.com/kolirolly/DSFundamentals_RohitKoli/tree/main/assignment_2
+Link: https://github.com/kolirolly/Software-Engineering/blob/9a30d918f9a88c86f9fa1df07ee95afc3bb05c9a/javTopy.py
 
 ---
 **1. Assignment 2**
